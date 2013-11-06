@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#tableChange {
+  width: 500px;
+  height: 500px;
+  ul {
+    float: left;
+  }
+  .table-box {
+    width: 100px;
+    height: 100px;
+    display: none;
+  }
+  .table-show {
+    display: block;
+  }
+  #table-body{
+    float: right;
+  }
+}
+.add{
+  background: red;
+}
+.text{
+  background: blue;
+}

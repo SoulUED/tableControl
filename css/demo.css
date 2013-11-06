@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#tableChange {
+  width: 500px;
+  height: 500px; }
+  #tableChange ul {
+    float: left; }
+  #tableChange .table-box {
+    width: 100px;
+    height: 100px;
+    display: none; }
+  #tableChange .table-show {
+    display: block; }
+  #tableChange #table-body {
+    float: right; }
+
+.add {
+  background: red; }
+
+.text {
+  background: blue; }
